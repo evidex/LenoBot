@@ -11,4 +11,4 @@ bot.registry.registerGroup('emoji', 'Emoji');
 bot.registry.registerDefaults();
 bot.registry.registerCommandsIn(__dirname + "/commands")
 
-bot.login(process.env.NDUwNDc3NTk1NzE3NTMzNjk2.De0B0Q.m-v9ptlenxKSKQxxZSJqWsekEVQ);
+bot.login(process.env.BOT_TOKEN);
